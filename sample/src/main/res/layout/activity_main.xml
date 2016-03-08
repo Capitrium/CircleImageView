@@ -13,6 +13,7 @@
         android:background="@color/light">
 
         <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/image1"
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:layout_centerInParent="true"
@@ -30,6 +31,7 @@
         android:background="@color/dark">
 
         <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/image2"
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:layout_centerInParent="true"
